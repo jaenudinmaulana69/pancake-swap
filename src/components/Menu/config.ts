@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://v2.udin.dev/',
+    href: 'https://app.priv8.dev/',
   },
   {
     label: 'Trade',
