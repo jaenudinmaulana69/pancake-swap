@@ -4,7 +4,7 @@ import { Button, Flex, Input, Text } from '@pancakeswap-libs/uikit'
 import { useUserSlippageTolerance } from 'state/user/hooks'
 import QuestionHelper from '../QuestionHelper'
 
-const MAX_SLIPPAGE = 5000
+const MAX_SLIPPAGE = 10000
 const RISKY_SLIPPAGE_LOW = 50
 const RISKY_SLIPPAGE_HIGH = 500
 
